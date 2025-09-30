@@ -1,13 +1,4 @@
-# 作業1
 
-## A. 使用VSCode將以下內容(包含一個.txt及一個.ppt)，編成Markdown格式(使用Copilot協助)，再上傳GitHub
-
-## B. 使用VSCode寫好自己的履歷表（或自傳也OK），編成Markdown格式(使用Copilot協助)，再上傳GitHub
-
-> **繳交方式：**  
-> 請將GitHub上的連結貼到作業區
-
----
 
 ## 第一週　課堂規定及評量標準 - 說明
 
